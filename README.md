@@ -25,7 +25,7 @@ This repository tracks notable **SaaS platforms** ☁️ and **open-source proje
 
 **Examples** include Microsoft Defender Threat Intelligence, Recorded Future, Mandiant Threat Intelligence, CrowdStrike Falcon Intelligence, Flashpoint, Anomali, Palo Alto Unit 42, IntSights (Rapid7), ZeroFox, and Cybersixgill (the category leaders).
 
-**Open-source emphasis**: The open-source CTI ecosystem is **exceptionally mature and production-proven**. **MISP** (Malware Information Sharing Platform) is the de-facto standard for threat sharing with **5,964 GitHub stars**, used by **over 6,000 organizations worldwide** 🌍. **OpenCTI** provides a modern STIX 2.1 knowledge graph with **9,900 GitHub stars** and active development 🚀. **TheHive** offers incident response case management with **3,843 stars** 🐝. **IntelOwl** delivers scalable threat analysis with AI-powered enrichment (GSoC 2026) 🦉. This section documents these production-grade solutions.
+**Open-source emphasis**: The open-source CTI ecosystem is **exceptionally mature and production-proven**. **MISP** (Malware Information Sharing Platform) is the de-facto standard for threat sharing with **5,964 GitHub_Stars**, used by **over 6,000 organizations worldwide** 🌍. **OpenCTI** provides a modern STIX 2.1 knowledge graph with **9,900 GitHub_Stars** and active development 🚀. **TheHive** offers incident response case management with **3,843 stars** 🐝. **IntelOwl** delivers scalable threat analysis with AI-powered enrichment (GSoC 2026) 🦉. This section documents these production-grade solutions.
 
 Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
@@ -63,10 +63,10 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by star count (descending). Star badge links to each repo's stargazers page. ⭐
+Sorted by Stars_Count (descending). Stars_Badge links to each repo's stargazers page. ⭐
 
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[OpenCTI](https://github.com/OpenCTI-Platform/opencti)** — **The leading open-source threat intelligence platform.** Modern STIX 2.1 knowledge graph storing every threat actor, malware, indicator, and ATT&CK technique as typed, relationship-linked objects 🌐. **Connectors for MITRE ATT&CK, CVE/NVD, AlienVault OTX, Abuse.ch, VirusTotal, Mandiant, Recorded Future, ISAC/government TAXII feeds** 🔗. **9.9K stars**, active development 🚀. **Autonomous import** via connectors, streams, TAXII feeds, RSS, CSV, JSON. **AGPL-3.0** (Community Edition). | [![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers) | ~9,900 |
 | **[MISP](https://github.com/MISP/MISP)** — **The de-facto standard for threat intelligence sharing.** Open Source Threat Intelligence and Sharing Platform (formerly Malware Information Sharing Platform) 🛡️. **5,964 stars**, used by **6,000+ organizations worldwide** 🌍. **83 repositories** in the MISP organization including PyMISP, misp-objects, misp-taxonomies, MISP-STIX-Converter, and misp-playbooks. Core format specifications, best practices, and RFCs published. **AGPL-3.0**. | [![Stars](https://img.shields.io/github/stars/MISP/MISP?style=social&color=white)](https://github.com/MISP/MISP/stargazers) | ~5,964 |
