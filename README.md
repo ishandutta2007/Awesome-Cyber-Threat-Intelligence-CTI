@@ -88,6 +88,16 @@ Sorted by Stars_Count (descending). Stars_Badge links to each repo's stargazers 
 
 ---
 
+## 🌐 Free Public CTI Indexes & Dashboards
+
+> Free, publicly accessible resources for tracking internet cyber health, threat trends, and daily security signals — no account, subscription, or API key required.
+
+| Resource | Description |
+|---|---|
+| **[ICHI – Internet Cyber Health Index](https://ichi.global)** | Free, publicly accessible daily barometer of Internet cyber health. Source-transparent index aggregating vulnerability pressure, exploitation telemetry, malware infrastructure, threat actor activity, ransomware, and supply-chain signals. Provides an outside-in directional signal — not an organization-specific risk score or forecast. Alerts RSS feed: `https://ichi.global/api/alerts`. |
+
+---
+
 ## 🤝 How to Contribute
 
 1. Fork the repo. 🍴
