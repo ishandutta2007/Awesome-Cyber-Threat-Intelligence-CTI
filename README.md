@@ -58,6 +58,7 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 | **[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/)** | **Palo Alto Networks' threat intelligence.** Research-driven intelligence from Unit 42 threat researchers, integrated with Cortex XDR. | **Custom enterprise pricing** — quote required. Bundled with Cortex XDR/PAN-OS subscriptions. | **Unit 42 blog and research**: Free public access 🎁. Enterprise intel requires subscription. | **~$9.2B revenue (Palo Alto FY2025)** 🏢 |
 | **[ZeroFox](https://www.zerofox.com/)** | **Digital risk protection and external threat intelligence.** Social media monitoring, phishing detection, and brand protection 🦊. | **Custom enterprise pricing** — quote required. | **None** — enterprise demo required. | **Private (~$250M+ raised)** 🏢 |
 | **[Cybersixgill](https://www.cybersixgill.com/)** | **Deep and dark web intelligence.** Real-time insights from underground forums and markets 🌊. | **Custom enterprise pricing** — quote required. | **None** — enterprise demo required. | **Private (~$100M+ raised)** 🏢 |
+| **[ICHI – Internet Cyber Health Index](https://ichi.global)** | **Free public cyber-health barometer.** Daily index aggregating vulnerability pressure, exploitation telemetry, malware infrastructure, threat actor activity, ransomware and supply-chain signals into one source-transparent, executive-readable index, with direct evidence links, methodology at https://ichi.global/methodology, and a public alerts feed. | **Free** | **Fully free** — no login, no API key, no installation. | **Independent, creator-maintained project** |
 
 ---
 
@@ -85,16 +86,6 @@ Sorted by Stars_Count (descending). Stars_Badge links to each repo's stargazers 
 | **[misp-playbooks](https://github.com/MISP/misp-playbooks)** — Automated response playbooks for MISP 📘. |
 | **[Graylog Threat Intel Plugin](https://github.com/Graylog2/graylog-plugin-threatintel)** — Enrich log messages with IOC data from threat intelligence databases 🪵. |
 | **[MISP-QRadar-Integration](https://github.com/karthikkbala/MISP-QRadar-Integration)** — Integrate QRadar with MISP Threat Sharing Platform 📡. |
-
----
-
-## 🌐 Free Public CTI Indexes & Dashboards
-
-> Free, publicly accessible resources for tracking internet cyber health, threat trends, and daily security signals — no account, subscription, or API key required.
-
-| Resource | Description |
-|---|---|
-| **[ICHI – Internet Cyber Health Index](https://ichi.global)** | Free, publicly accessible daily barometer of Internet cyber health. Source-transparent index aggregating vulnerability pressure, exploitation telemetry, malware infrastructure, threat actor activity, ransomware, and supply-chain signals. Provides an outside-in directional signal — not an organization-specific risk score or forecast. Alerts RSS feed: `https://ichi.global/api/alerts`. |
 
 ---
 
